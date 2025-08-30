@@ -38,7 +38,7 @@ If you use this data or refer to it in academic work, please cite our paper and 
 ## License and Use Disclaimer
 
 ⚠️ **Disclaimer:**  
-All contents of this repository are provided strictly for academic transparency and reproducibility in support of the SBSeg 2025 publication. **No part of this material may be used, copied, stored, modified, or redistributed—whether in whole or in part—without prior written permission from the authors.**
+All contents of this repository are provided strictly for academic transparency and reproducibility in support of the LADC 2025 publication. **No part of this material may be used, copied, stored, modified, or redistributed—whether in whole or in part—without prior written permission from the authors.**
 
 © 2025 AppSecAI, Inc. All rights reserved.  
 This software and its source code are the proprietary information of AppSecAI, Inc.  
